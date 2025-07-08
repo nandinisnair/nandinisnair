@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Name" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1F2937&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" />
 
 ---
 
