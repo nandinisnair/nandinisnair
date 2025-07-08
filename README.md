@@ -25,7 +25,7 @@ const nandini = {
   name: "Nandini Sreejit Nair",
   degree: "B.Tech in Computer Science (AI & ML)",
   university: "SRM Institute of Science and Technology",
-  interests: ["AI/ML", "Computer Vision", "DevOps", "UI/UX"],
+  interests: ["AI/ML", "Computer Vision", "DevOps"],
   currentFocus: "Gesture-based Interfaces and Epidemic Modeling",
   languages: ["Python", "C++", "Java", "SQL", "HTML", "CSS", "JavaScript"],
   webTech: ["React.js", "Node.js", "Tailwind CSS"],
