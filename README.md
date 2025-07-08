@@ -43,12 +43,12 @@ const nandini = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=flag-india&count_private=true&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=flag-india&hide_border=false&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=tokyonight&hide_border=false&border_radius=10" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=flag-india&hide_border=false&border_radius=10" width="60%" />
 </p>
 
 
