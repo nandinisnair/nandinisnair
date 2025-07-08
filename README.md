@@ -2,16 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="50px">
-</p>
-
-<h3 align="center">
-  <span style="color:#F59E0B"><strong>Driven by logic. Built for production.</strong></span><br>
-  <span style="color:#10B981"><strong>Building clean, backend-first systems with real-world performance in mind.</strong></span><br>
-  <span style="color:#EF4444"><strong>Now exploring cloud infrastructure, model deployment, and dev-grade automation.</strong></span>
-</h3>
-
 ---
 
 ## 👩‍💻 About Me
