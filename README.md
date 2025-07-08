@@ -3,10 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />&nbsp;
-  I’m a Computer Science student who enjoys building backend systems and experimenting with machine learning.<br>
-  Currently learning cloud tools and developing practical, useful projects.
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="50px">
 </p>
+
+<h3 align="center">
+  <span style="color:#F59E0B"><strong>Driven by logic. Built for production.</strong></span><br>
+  <span style="color:#10B981"><strong>Building clean, backend-first systems with real-world performance in mind.</strong></span><br>
+  <span style="color:#EF4444"><strong>Now exploring cloud infrastructure, model deployment, and dev-grade automation.</strong></span>
+</h3>
 
 ---
 
