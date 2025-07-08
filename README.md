@@ -41,8 +41,8 @@ const nandini = {
 ---
 
 ## 📊 GitHub Stats
+
 <h3 align="left">
-  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bar-graph.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/chart.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats Summary
 </h3>
 
@@ -54,6 +54,7 @@ const nandini = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=highcontrast&hide_border=false&border_radius=12&fire=DC2626&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=E5E7EB" width="70%" />
 </p>
+
 
 ---
 
