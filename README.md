@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Animation - Nandini Sreejit Nair" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=50&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Animation - Nandini Sreejit Nair" />
 </p>
 
 
@@ -42,10 +42,6 @@ const nandini = {
 
 ## 📊 GitHub Stats
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/chart.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats Summary
-</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&count_private=true&hide_border=false&border_radius=12&theme=gradient&title_color=F59E0B&text_color=E5E7EB&icon_color=10B981&bg_color=0A0A0A" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=12&theme=gradient&title_color=F59E0B&text_color=E5E7EB&bg_color=0A0A0A" width="48%" />
@@ -54,7 +50,6 @@ const nandini = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=highcontrast&hide_border=false&border_radius=12&fire=DC2626&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=E5E7EB" width="70%" />
 </p>
-
 
 ---
 
