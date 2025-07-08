@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,12 +43,13 @@ const nandini = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=flag-india&count_private=true&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=flag-india&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&count_private=true&hide_border=false&border_radius=10&bg_color=0D1117&title_color=9B111E&text_color=E4E4E4&icon_color=006400" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=10&bg_color=0D1117&title_color=003366&text_color=E4E4E4&icon_color=006400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=flag-india&hide_border=false&border_radius=10" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&hide_border=false&border_radius=10&background=0D1117&currStreakLabel=9B111E&ring=006400&fire=9B111E&sideLabels=003366&sideNums=006400&dates=E4E4E4&stroke=666666" width="60%" />
 </p>
 
 
