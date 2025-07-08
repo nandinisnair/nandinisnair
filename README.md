@@ -1,22 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nandini Sreejit Nair</h1>
-<h3 align="center">Backend Developer · ML Learner · 3rd-Year CSE Student</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />&nbsp;
   I’m a Computer Science student who enjoys building backend systems and experimenting with machine learning.<br>
   Currently learning cloud tools and developing practical, useful projects.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandini-sreejit-nair">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nandinisnair10@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nandinisnair">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -55,12 +44,12 @@ const nandini = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=github_dark&count_private=true&hide_border=false&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=github_dark&hide_border=false&border_radius=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=github-dark-blue&hide_border=false&border_radius=8" width="60%" />
 </p>
 
 ---
