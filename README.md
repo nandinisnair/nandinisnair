@@ -1,76 +1,82 @@
-<h1 align="center">Nandini Sreejit Nair</h1>
+<h1 align="center">Hi 👋, I'm Nandini Sreejit Nair</h1>
+<h3 align="center">Backend Developer · ML Learner · 3rd-Year CSE Student</h3>
 
-<p align="center"><strong style="font-size: 1.1em;">Software Developer &nbsp;|&nbsp; AI/ML Practitioner &nbsp;|&nbsp; Backend & Cloud Technologies</strong></p>
-
-<p align="center" style="max-width: 720px;">
-  <i>Focused on designing scalable systems, cloud-native APIs, and production-grade ML components.<br>
-  Pursuing engineering roles in backend development, distributed systems, and applied ML engineering.</i>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />&nbsp;
+  I’m currently learning backend frameworks, cloud tools and ML libraries.<br>
+  I like building systems that are useful, minimal, and functional.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nandini-sreejit-nair">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nandinisnair10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/nandinisnair">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/computer.gif" width="20px" style="margin-right: 8px;" /> Tech Stack
-</h3>
+## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,flask,docker,azure,mysql,postgres,git,linux,vscode" />
 </p>
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/gear.gif" width="20px" style="margin-right: 8px;" /> About Me
-</h3>
+## 👩‍💻 About Me
 
-```js
-const nandini = {
-  name: "Nandini Sreejit Nair",
-  degree: "B.Tech in Computer Science (AI & ML)",
-  university: "SRM Institute of Science and Technology",
-  core: ["Data Structures", "Algorithms", "System Design", "OOP"],
-  techStack: {
-    languages: ["Python", "C++", "Java", "SQL", "HTML", "CSS"],
-    frontend: ["React.js", "Tailwind CSS"],
-    backend: ["Flask", "Django"],
-    cloud: ["AWS", "Azure"],
-    devOps: ["Git", "Docker"],
-    databases: ["PostgreSQL", "MySQL"],
-    MLTools: ["OpenCV", "scikit-learn", "TensorFlow"]
-  },
-  currentlyLearning: "Scalable ML deployments & production pipelines",
-  goal: "To contribute to high-impact engineering teams solving real-world problems"
-}
-```
+- 🎓 CSE student at SRMIST (3rd year)
+- 🧪 Interested in backend development and ML experimentation
+- 📝 Co-authored a paper on epidemic modeling using centrality measures
+- 📢 Led AI awareness workshops for students as part of SRM’s Community Connect
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/handshake.gif" width="20px" style="margin-right: 8px;" /> Let's Connect
-</h3>
+## 🚀 Projects
 
-```text
-📧 nandinisnair10@gmail.com
-🔗 linkedin.com/in/nandini-sreejit-nair
+### 🧠 GestureDeck
+Control presentations using hand gestures and webcam input  
+**Tech:** `Python`, `MediaPipe`, `OpenCV`  
+🔗 [GitHub Repo](https://github.com/nandinisnair/GestureDeck)
+
+---
+
+### 🧬 EpiNet Vaccination Model  
+Simulates vaccination strategies in social networks  
+**Tech:** `Python`, `NetworkX`, `Matplotlib`  
+🔗 [GitHub Repo](https://github.com/nandinisnair/Epidemic-Network-Simulation)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=radical" width="60%" />
+</p>
+
+---
+
+## 📬 Reach Out
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandini-sreejit-nair">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nandinisnair10@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nandinisnair">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
