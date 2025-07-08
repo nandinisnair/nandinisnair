@@ -17,8 +17,14 @@
 </p>
 
 ---
+### 📊 GitHub Stats
 
-### 🧠 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=radical" width="45%" />
+</p>
+
+### 💡 About Me
 
 ```js
 const nandini = {
@@ -34,4 +40,5 @@ const nandini = {
   tools: ["Git", "Docker", "MediaPipe", "OpenCV", "PyAutoGUI", "NetworkX"],
   funFact: "I use AI to solve real-world problems — and design for humans, not just machines!"
 }
+
 
