@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Name" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
 </p>
 
