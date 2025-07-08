@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Animation - Nandini Sreejit Nair" />
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B;I'm+Nandini+Sreejit+Nair.;3rd+Year+B.Tech+Student+(AI+%26+ML)+at+SRM+University;Aspiring+Software+Developer+%7C+Interested+in+AI%2FML+%26+Backend;Hands-on+with+Python%2C+Flask%2C+Django%2C+SQL%2C+Git;Currently+exploring+Cloud+%7C+Docker+%7C+ML+Deployment;Open+to+SDE+Internships+%7C+ML+Projects+%7C+Cloud+Roles" alt="Typing SVG" />
@@ -57,13 +56,16 @@ const nandini = {
 ## 📬 Get in Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0A66C2" height="35" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:nandinisnair10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=EA4335" height="35" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nandinisnair" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=181717" height="35" />
   </a>
 </p>
+
 
