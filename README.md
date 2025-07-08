@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1F2937&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" />
 
 ---
 
