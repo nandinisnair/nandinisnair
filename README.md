@@ -1,45 +1,49 @@
 <h1 align="center">Nandini Sreejit Nair</h1>
 
-<p align="center"><strong>Software Developer | AI/ML Practitioner | Backend & Cloud Technologies</strong></p>
+<p align="center"><strong style="font-size: 1.1em;">Software Developer &nbsp;|&nbsp; AI/ML Practitioner &nbsp;|&nbsp; Backend & Cloud Technologies</strong></p>
 
-<p align="center">
-  <i>Focused on designing scalable systems, cloud-native APIs, and production-ready ML components.<br>
-  Actively pursuing opportunities in backend development, distributed systems, and applied ML engineering.</i>
+<p align="center" style="max-width: 720px;">
+  <i>Focused on designing scalable systems, cloud-native APIs, and production-grade ML components.<br>
+  Pursuing engineering roles in backend development, distributed systems, and applied ML engineering.</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nandinisnair10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/nandinisnair">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/computer.gif" width="20px" style="margin-right: 8px;" /> Tech Stack
+</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin: 8px;" />
 </p>
 
 ---
 
-### 📘 About Me
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/gear.gif" width="20px" style="margin-right: 8px;" /> About Me
+</h3>
 
 ```js
 const nandini = {
@@ -63,6 +67,10 @@ const nandini = {
 
 ---
 
-### 📬 Let's Connect
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/handshake.gif" width="20px" style="margin-right: 8px;" /> Let's Connect
+</h3>
 
-If you're hiring for backe
+```text
+📧 nandinisnair10@gmail.com
+🔗 linkedin.com/in/nandini-sreejit-nair
