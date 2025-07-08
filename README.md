@@ -39,6 +39,35 @@ const nandini = {
 </p>
 
 ---
+---
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/chart.gif" width="20px" style="margin-right: 6px;" /> GitHub Summary Card
+</h3>
+
+<p align="center">
+  <img src="https://lohith-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=percentile&count_private=true" width="80%" />
+</p>
+
+---
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/piechart.gif" width="20px" style="margin-right: 6px;" /> Most Used Languages
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=E5E7EB" width="48%" />
+</p>
+
+---
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/fire.gif" width="20px" style="margin-right: 6px;" /> Streak Activity
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=tokyonight&hide_border=true&background=00000000&currStreakLabel=3B82F6&ring=10B981&fire=DC2626&sideLabels=3B82F6&sideNums=10B981&dates=E5E7EB" width="60%" />
+</p>
 
 
 ## 📊 GitHub Stats
