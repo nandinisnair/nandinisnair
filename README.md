@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=1000&lines=Nandini+Sreejit+Nair" alt="Typing Animation - Nandini Sreejit Nair" />
+</p>
 
 ---
 
