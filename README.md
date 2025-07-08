@@ -40,8 +40,9 @@ const nandini = {
 
 ---
 
-
+## 📊 GitHub Stats
 <h3 align="left">
+  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bar-graph.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/chart.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats Summary
 </h3>
 
@@ -53,22 +54,6 @@ const nandini = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=highcontrast&hide_border=false&border_radius=12&fire=DC2626&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=E5E7EB" width="70%" />
 </p>
----
-
-## 📊 GitHub Stats
-
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bar-graph.gif" width="20px" style="margin-right: 6px;" /> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&count_private=true&hide_border=false&border_radius=10&bg_color=121212&title_color=00A3FF&text_color=C0C0C0&icon_color=00D084" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=10&bg_color=121212&title_color=00A3FF&text_color=C0C0C0&icon_color=00D084" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&hide_border=false&border_radius=10&background=121212&currStreakLabel=00A3FF&ring=00D084&fire=FF5C5C&sideLabels=00A3FF&sideNums=00D084&dates=C0C0C0&stroke=282C34" width="60%" />
-</p>
-
 
 ---
 
