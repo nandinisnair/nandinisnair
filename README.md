@@ -54,18 +54,31 @@ const nandini = {
 ---
 
 ## 📬 Get in Touch
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0A66C2" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nandinisnair10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=EA4335" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nandinisnair" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=181717" height="35" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#0A66C2;"><strong>LinkedIn</strong></span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="mailto:nandinisnair10@gmail.com" style="text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#D44638;"><strong>Email</strong></span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#181717;"><strong>GitHub</strong></span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
