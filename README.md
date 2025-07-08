@@ -55,15 +55,15 @@ const nandini = {
 ---
 
 ## 📬 Get in Touch
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandini-sreejit-nair">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nandinisnair10@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/nandinisnair">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/nandinisnair" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
