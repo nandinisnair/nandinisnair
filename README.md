@@ -71,12 +71,14 @@ const nandini = {
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-        <br />
-        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#181717;"><strong>GitHub</strong></span>
-      </a>
-    </td>
+  <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
+    <div style="background-color:#f3f4f6; padding: 10px; border-radius: 10px; transition: transform 0.2s;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+      <br />
+      <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color:#2563EB;"><strong>GitHub</strong></span>
+    </div>
+  </a>
+</td>
   </tr>
 </table>
 
