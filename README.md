@@ -52,35 +52,40 @@ const nandini = {
 </p>
 
 ---
-
 ## 📬 Get in Touch
 <table align="center">
   <tr>
+    <!-- LinkedIn -->
     <td align="center" style="padding: 10px;">
       <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-        <br />
-        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#0A66C2;"><strong>LinkedIn</strong></span>
+        <div style="background-color: #ffffff10; padding: 15px; border-radius: 12px; border: 1px solid white; backdrop-filter: blur(4px); transition: transform 0.2s;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+          <br />
+          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #0A66C2;"><strong>LinkedIn</strong></span>
+        </div>
       </a>
     </td>
+    <!-- Email -->
     <td align="center" style="padding: 10px;">
       <a href="mailto:nandinisnair10@gmail.com" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-        <br />
-        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#D44638;"><strong>Email</strong></span>
+        <div style="background-color: #ffffff10; padding: 15px; border-radius: 12px; border: 1px solid white; backdrop-filter: blur(4px); transition: transform 0.2s;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+          <br />
+          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #D44638;"><strong>Email</strong></span>
+        </div>
       </a>
     </td>
+    <!-- GitHub -->
     <td align="center" style="padding: 10px;">
-  <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
-    <div style="background-color:#f3f4f6; padding: 10px; border-radius: 10px; transition: transform 0.2s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-      <br />
-      <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color:#2563EB;"><strong>GitHub</strong></span>
-    </div>
-  </a>
-</td>
+      <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
+        <div style="background-color: #ffffff10; padding: 15px; border-radius: 12px; border: 1px solid white; backdrop-filter: blur(4px); transition: transform 0.2s;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+          <br />
+          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #181717;"><strong>GitHub</strong></span>
+        </div>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 
