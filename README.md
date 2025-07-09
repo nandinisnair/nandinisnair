@@ -59,31 +59,31 @@ const nandini = {
     <!-- LinkedIn -->
     <td align="center" style="padding: 10px;">
       <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank" style="text-decoration: none;">
-        <div style="background-color: white; padding: 15px; border-radius: 12px; transition: transform 0.2s;">
+        <div style="background-color: white; padding: 10px; border-radius: 8px; display: inline-block;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-          <br />
-          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #0A66C2;"><strong>LinkedIn</strong></span>
         </div>
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#0A66C2;"><strong>LinkedIn</strong></span>
       </a>
     </td>
     <!-- Email -->
     <td align="center" style="padding: 10px;">
       <a href="mailto:nandinisnair10@gmail.com" style="text-decoration: none;">
-        <div style="background-color: white; padding: 15px; border-radius: 12px; transition: transform 0.2s;">
+        <div style="background-color: white; padding: 10px; border-radius: 8px; display: inline-block;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-          <br />
-          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #D44638;"><strong>Email</strong></span>
         </div>
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#D44638;"><strong>Email</strong></span>
       </a>
     </td>
     <!-- GitHub -->
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
-        <div style="background-color: white; padding: 15px; border-radius: 12px; transition: transform 0.2s;">
+        <div style="background-color: white; padding: 10px; border-radius: 8px; display: inline-block;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-          <br />
-          <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color: #181717;"><strong>GitHub</strong></span>
         </div>
+        <br />
+        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#181717;"><strong>GitHub</strong></span>
       </a>
     </td>
   </tr>
