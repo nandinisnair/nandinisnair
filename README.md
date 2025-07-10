@@ -53,31 +53,73 @@ const nandini = {
 
 ---
 ## 📬 Get in Touch
+
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px;">
+    <!-- LinkedIn -->
+    <td align="center" style="padding: 15px;">
       <a href="https://www.linkedin.com/in/nandini-sreejit-nair" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-        <br />
-        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#0A66C2;"><strong>LinkedIn</strong></span>
+        <div style="
+          background-color: #ffffff;
+          padding: 16px;
+          border-radius: 12px;
+          width: 140px;
+          height: 120px;
+          box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+          transition: transform 0.3s ease;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+          <div style="margin-top: 12px; font-size: 14px; color: #0a66c2;"><strong>LinkedIn</strong></div>
+        </div>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="mailto:nandinisnair10@gmail.com" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-        <br />
-        <span style="font-family:Segoe UI, sans-serif; font-size: 14px; color:#D44638;"><strong>Email</strong></span>
+    <!-- Email -->
+    <td align="center" style="padding: 15px;">
+      <a href="mailto:nandinisnair10@gmail.com" target="_blank" style="text-decoration: none;">
+        <div style="
+          background-color: #ffffff;
+          padding: 16px;
+          border-radius: 12px;
+          width: 140px;
+          height: 120px;
+          box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+          transition: transform 0.3s ease;">
+          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32" />
+          <div style="margin-top: 12px; font-size: 14px; color: #ea4335;"><strong>Email</strong></div>
+        </div>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
-  <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
-    <div style="background-color:#f3f4f6; padding: 10px; border-radius: 10px; transition: transform 0.2s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-      <br />
-      <span style="font-family: Segoe UI, sans-serif; font-size: 14px; color:#2563EB;"><strong>GitHub</strong></span>
-    </div>
-  </a>
-</td>
+    <!-- GitHub -->
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/nandinisnair" target="_blank" style="text-decoration: none;">
+        <div style="
+          background-color: #ffffff;
+          padding: 16px;
+          border-radius: 12px;
+          width: 140px;
+          height: 120px;
+          box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+          transition: transform 0.3s ease;">
+          <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="32" />
+          <div style="margin-top: 12px; font-size: 14px; color: #171515;"><strong>GitHub</strong></div>
+        </div>
+      </a>
+    </td>
+    <!-- Resume -->
+    <td align="center" style="padding: 15px;">
+      <a href="https://drive.google.com/file/d/1Hbqs2MVHkwJ979KfeNkCPLwkTusPxwis/view?usp=drivesdk" target="_blank" style="text-decoration: none;">
+        <div style="
+          background-color: #ffffff;
+          padding: 16px;
+          border-radius: 12px;
+          width: 140px;
+          height: 120px;
+          box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+          transition: transform 0.3s ease;">
+          <img src="https://img.icons8.com/ios-filled/50/4a90e2/resume.png" width="32" />
+          <div style="margin-top: 12px; font-size: 14px; color: #2563EB;"><strong>Resume</strong></div>
+        </div>
+      </a>
+    </td>
   </tr>
 </table>
 
