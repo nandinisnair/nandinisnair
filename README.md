@@ -43,12 +43,8 @@ const nandini = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&count_private=true&hide_border=false&border_radius=12&theme=gradient&title_color=F59E0B&text_color=E5E7EB&icon_color=10B981&bg_color=0A0A0A" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=12&theme=gradient&title_color=F59E0B&text_color=E5E7EB&bg_color=0A0A0A" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandinisnair&theme=highcontrast&hide_border=false&border_radius=12&fire=DC2626&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=E5E7EB" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&hide_border=false&border_radius=12&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=12&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -106,7 +102,7 @@ const nandini = {
     </td>
     <!-- Resume -->
     <td align="center" style="padding: 15px;">
-      <a href="https://drive.google.com/file/d/1Hbqs2MVHkwJ979KfeNkCPLwkTusPxwis/view?usp=drivesdk" target="_blank" style="text-decoration: none;">
+      <a href="https://drive.google.com/file/d/1bwK2zKwpoT4B29z9VrvxEWwvaZPV_1tx/view?usp=drivesdk" target="_blank" style="text-decoration: none;">
         <div style="
           background-color: #ffffff;
           padding: 16px;
