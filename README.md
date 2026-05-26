@@ -40,11 +40,16 @@ const nandini = {
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisnair&show_icons=true&hide_border=false&border_radius=12&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisnair&layout=compact&hide_border=false&border_radius=12&theme=tokyonight" width="48%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=nandinisnair&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
 
 ---
