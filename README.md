@@ -107,7 +107,7 @@ const nandini = {
     </td>
     <!-- Resume -->
     <td align="center" style="padding: 15px;">
-      <a href="https://drive.google.com/file/d/1bwK2zKwpoT4B29z9VrvxEWwvaZPV_1tx/view?usp=drivesdk" target="_blank" style="text-decoration: none;">
+      <a href="https://drive.google.com/file/d/1TBctGUtleHDXHsJJL6MylNJ2Wywmdscv/view?usp=drive_link" target="_blank" style="text-decoration: none;">
         <div style="
           background-color: #ffffff;
           padding: 16px;
